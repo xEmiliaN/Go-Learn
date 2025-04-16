@@ -1,2 +1,2 @@
 ## Second chapter
-In this chapter, I learned how variable declarations work, explored different data types, and discovered literals (which I initially amusingly referred to as "literatures", `lol`). I also studied constants, their possible types, and the concept of untyped constants. Additionally, I learned how Go handles unused variables.
+In this chapter, I learned how variable declarations work, explored different data types, and discovered literals (which I initially amusingly referred to as "literatures", lol). Discovered that Go supports only explicit type conversion.Also studied constants, their possible types, and the concept of untyped constants. Additionally, I learned how Go handles unused variables. At the end, I completed exercises to reinforce the material.
