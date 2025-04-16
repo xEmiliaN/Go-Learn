@@ -1,0 +1,2 @@
+## First chapter
+In this chapter, I learned how to print "Hello World" to the console, gained a basic understanding of Makefile, and explored the usage of `go build` and `go run`. Additionally, I discovered the key differences between the run and build commands.
