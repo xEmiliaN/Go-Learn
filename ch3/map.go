@@ -21,7 +21,7 @@ func main() {
 	// Длина его тоже равна 0, однако, для него допустимы операции чтения и записи
 
 	// Не пустой литерал отображения выглядит вот так
-	teams := map[stirng][]string{
+	teams := map[string][]string{
 		"Orcas":   []string{"Fred", "Ralph", "Bijou"},
 		"Lionas":  []string{"Sarah", "Peter", "Billie"},
 		"Kittens": []string{"Waldo", "Raul", "Ze"},
