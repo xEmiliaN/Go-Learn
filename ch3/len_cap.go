@@ -5,7 +5,7 @@ package main
 
 import "fmt"
 
-func main() {
+func noMain() {
 	var a []int16
 	var x []int32
 	var y []int64
